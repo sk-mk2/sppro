@@ -39,12 +39,6 @@ class CoastLine {
                 }
             }
         }
-        /*for(int i = 0; i < H; i++) {
-            for(int j = 0; j < W; j++) {
-                System.out.print(map[i][j]);
-            }
-            System.out.println();
-        }*/
         for(int j = 0; j < 100;j++){
             int i = 0;
             int maxTmp = 0;
